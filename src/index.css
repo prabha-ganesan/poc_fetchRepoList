@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.App {
+  position: relative;
+  position: relative;
+  top: 50px;
+}
+
+.Fetch_btn {
+  background-color: #04AA6D;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 8px 12px;
+    margin-top: 6px;
+    color: #FFFFFF;border: none;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Fetch_btn:hover {
+  box-shadow: none;
+    background-color: #059862
+}
+
+ol {
+  position: absolute;
+  left: 35%;
+  transform: translate(-5%, 10%);
+}
+
+ol li {
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+ol li a, ol li span{
+  font-weight: 500;
+}
+
+
